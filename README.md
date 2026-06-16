@@ -1,10 +1,10 @@
 # 🚀 Muhammad Faisal Siddique
 
 <div align="center">
-  <img src="faisal-cover.jpg" alt="Cover Image" width="100%" style="border-radius: 12px;"/>
+  <img src="faisal-cover.jpg" alt="Cover Image" width="80%" style="border-radius: 12px; max-width: 800px;"/>
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Node.js+Backend+Engineer;AI-Powered+Applications;Computer+Science+Student+%40+NED+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Expert;Node.js+Backend+Engineer;AI-Powered+Applications" alt="Typing SVG" />
   </h3>
   
   <p>
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science undergraduate at **NED University of Engineering & Technology** and passionate Full Stack Developer based in Karachi, Pakistan. I craft scalable web applications with modern technologies and a focus on clean, efficient code.
+Computer Science undergraduate at **NED University of Engineering & Technology** and passionate Full Stack Developer based in Karachi, Pakistan.
 
 - 🔭 Currently building **enterprise-grade management systems**
 - 🌱 Exploring **AI integrations** and **modern web technologies**
@@ -30,149 +30,30 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>📋 Languages</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres,git,github,postman,firebase,vercel" />
 </p>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔧 Tools</b></summary>
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel" />
-</p>
-</details>
 
 ---
 
 ## 💼 Experience
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Full Stack Developer</h3>
-      <p><b>TribeSell</b> • Apr 2026 – Present</p>
-      <ul>
-        <li>Building management system for Japanese automobile organization</li>
-        <li>Implementing RBAC and document workflows</li>
-        <li>Integrating automated email systems</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Full Stack Developer & Brand Associate</h3>
-      <p><b>Phantom Gambit</b> • Jun 2025 – Present</p>
-      <ul>
-        <li>Developed company website with modern UI/UX</li>
-        <li>Managed brand identity and design systems</li>
-        <li>Supported game development team</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Web Development Intern</h3>
-      <p><b>Barrett Hodgson</b> • Mar 2025 – Apr 2025</p>
-      <ul>
-        <li>Built enterprise forms using React, Node.js, MySQL</li>
-        <li>Developed approval/rejection workflows</li>
-        <li>Implemented notification systems</li>
-      </ul>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+| Company | Role | Duration | Key Contributions |
+|---------|------|----------|-------------------|
+| **TribeSell** | Full Stack Developer | Apr 2026 – Present | Building management system for Japanese automobile organization • Implementing RBAC and document workflows • Integrating automated email systems |
+| **Phantom Gambit** | Full Stack Developer & Brand Associate | Jun 2025 – Present | Developed company website with modern UI/UX • Managed brand identity and design systems • Supported game development team |
+| **Barrett Hodgson** | Web Development Intern | Mar 2025 – Apr 2025 | Built enterprise forms using React, Node.js, MySQL • Developed approval/rejection workflows • Implemented notification systems |
 
 ---
 
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>📖 QuranVision</h3>
-      <p>Full-stack Islamic platform</p>
-      <ul>
-        <li>Firebase Authentication</li>
-        <li>Quran & Hadith APIs</li>
-        <li>Learning Plans & Islamic Store</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-    <td width="33%">
-      <h3>🤖 MYP</h3>
-      <p>AI-powered CRM platform</p>
-      <ul>
-        <li>Contact Management</li>
-        <li>Kanban Boards</li>
-        <li>LLaMA 3.1 Contact Parser</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLaMA-FF6B00?style=flat&logo=meta&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%">
-      <h3>💬 Anonymous Messaging</h3>
-      <p>Next.js platform with AI</p>
-      <ul>
-        <li>NextAuth.js & JWT</li>
-        <li>MongoDB & Zod</li>
-        <li>NVIDIA NIM AI Suggestions</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <h3>🛒 Dream Fragrance</h3>
-      <p>Full-stack e-commerce</p>
-      <ul>
-        <li>Product Management</li>
-        <li>Order Processing</li>
-        <li>Admin Dashboard</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
-  </tr>
-</table>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **📖 QuranVision** | Full-stack Islamic platform with Firebase Auth, Quran & Hadith APIs, Learning Plans, and Islamic Store | React, Firebase |
+| **🤖 MYP** | AI-powered CRM with Contact Management, Kanban Boards, and LLaMA 3.1 Contact Parser | Next.js, LLaMA |
+| **💬 Anonymous Messaging** | Next.js platform with NextAuth.js, JWT, MongoDB, Zod, and NVIDIA NIM AI Suggestions | Next.js, MongoDB, NVIDIA NIM |
+| **🛒 Dream Fragrance** | Full-stack e-commerce with Product Management, Order Processing, and Admin Dashboard | React, Firebase |
 
 ---
 
@@ -222,7 +103,7 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FaisalSidd123&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
@@ -250,11 +131,5 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=80&section=footer" />
 </div>
-
----
-
-## 📝 License
-
-This README is licensed under [MIT License](LICENSE). Feel free to use it as a template for your own profile!
