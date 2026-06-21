@@ -1,18 +1,16 @@
 <div align="center">
 
-  <img src="faisal-cover.png" alt="Cover" width="100%" style="border-radius: 12px; max-height: 320px; object-fit: cover;" />
+  <img src="faisal-cover.png" alt="Faisal Siddique" width="100%" style="border-radius: 12px; max-height: 320px; object-fit: cover;" />
 
-  <br/><br/>
-
-  <a href="mailto:faisalsiddique.129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muhammad-faisal-74baa5297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/FaisalSidd123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://faisal-siddique.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=FaisalSidd123&label=Views&color=8A2BE2&style=flat-square" />
+  <p align="center">
+    <a href="mailto:faisalsiddique.129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/muhammad-faisal-74baa5297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/FaisalSidd123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <a href="https://faisal-siddique.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=vercel&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=FaisalSidd123&label=Views&color=8A2BE2&style=flat-square" />
+  </p>
 
 </div>
-
-<br/>
 
 ---
 
