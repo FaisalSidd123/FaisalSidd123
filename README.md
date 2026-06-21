@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="faisal-cover.jpg" alt="Cover" width="75%" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
+  <img src="faisal-cover.png" alt="Cover" width="75%" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
 </div>
 
 <br/>
