@@ -94,8 +94,8 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 ## GitHub Statistics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FaisalSidd123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalSidd123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=FaisalSidd123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaisalSidd123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600" />
 </div>
 
 <div align="center">
