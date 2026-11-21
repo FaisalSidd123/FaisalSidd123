@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="faisal-cover.png" alt="Faisal Siddique" width="100%" style="border-radius: 12px; max-height: 320px; object-fit: cover;" />
+  <img src="profile/banner.svg" alt="Muhammad Faisal Siddique" width="100%" />
 
-  <p align="center">
-    <a href="mailto:faisalsiddique.129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/muhammad-faisal-74baa5297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/FaisalSidd123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://faisal-siddique.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=vercel&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=FaisalSidd123&label=Views&color=8A2BE2&style=flat-square" />
+  <p>
+    <a href="mailto:faisalsiddique.129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/muhammad-faisal-74baa5297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/FaisalSidd123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://faisal-siddique.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <img src="https://komarev.com/ghpvc/?username=FaisalSidd123&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views" />
   </p>
 
 </div>
@@ -27,8 +27,8 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 ## Tech Stack
 
 **Languages** &nbsp;
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -94,12 +94,12 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 ## GitHub Statistics
 
 <div align="center">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=FaisalSidd123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaisalSidd123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600" />
+  <img height="170" src="profile/stats.svg" alt="GitHub stats" />
+  <img height="170" src="profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FaisalSidd123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=FaisalSidd123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
