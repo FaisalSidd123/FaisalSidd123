@@ -101,7 +101,7 @@ Computer Science undergraduate at **NED University of Engineering & Technology**
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FaisalSidd123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="profile/streak.svg" alt="GitHub streak" />
 </div>
 
 ---
