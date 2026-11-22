@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="profile/banner.svg" alt="Muhammad Faisal Siddique" width="100%" />
+  <h1>✦ Muhammad Faisal Siddique ✦</h1>
+
+  <p><b>Full Stack Developer</b> &nbsp;·&nbsp; AI Integrations &nbsp;·&nbsp; Karachi, Pakistan</p>
 
   <p>
     <a href="mailto:faisalsiddique.129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
